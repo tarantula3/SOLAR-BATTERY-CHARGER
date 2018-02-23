@@ -2,7 +2,7 @@
 
 DIY - SOLAR BATTERY CHARGER
 --
-![DIY - SOLAR BATTERY CHARGER](https://github.com/scorpHQ/SOLAR-BATTERY-CHARGER/blob/master/VideoImage.PNG?raw=true)
+[![DIY - SOLAR BATTERY CHARGER](https://github.com/scorpHQ/SOLAR-BATTERY-CHARGER/blob/master/VideoImage.PNG?raw=true)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
 
 Hi Everyone, I am back again with this new tutorial.
 
@@ -75,7 +75,6 @@ This project will be very helpful to power a remote data logger. As we know, the
 This project can also solve the efficiency issue of Arduino when in sleep. Sleep saves battery, however, the sensors and power regulators (7805) will still consume battery in idle mode draining the battery. By charging the battery as we use it, we can solve our problem.
 
 
-
-![DIY - SOLAR BATTERY CHARGER](https://github.com/scorpHQ/SOLAR-BATTERY-CHARGER/blob/master/VideoImage.PNG?raw=true)
+[![DIY - SOLAR BATTERY CHARGER](https://github.com/scorpHQ/SOLAR-BATTERY-CHARGER/blob/master/VideoImage.PNG?raw=true)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
 
 Thanks again for watching this video! I hope it helps you. If you want to support me, you can subscribe to my channel and watch my other videos. Thanks, ca again in my next video.
